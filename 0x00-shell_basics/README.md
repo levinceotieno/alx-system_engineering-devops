@@ -10,4 +10,5 @@ moving file
 deleting file
 deleting directory
 changing directory to the previous one
-listing all filese
+listing all files
+file typee
