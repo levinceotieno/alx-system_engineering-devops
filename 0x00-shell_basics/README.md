@@ -16,3 +16,4 @@ symbolsee
 copying html
 moving all files begginning with uppercase letter
 deleting files in cwd
+script that creates directories
