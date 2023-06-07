@@ -5,4 +5,5 @@ changing working directory to users hom
 list files
 list more files
 list the file digits only
-creating a script that creates a directorye
+creating a script that creates a directory
+moving filee
