@@ -9,4 +9,5 @@ creating a script that creates a directory
 moving file
 deleting file
 deleting directory
-changing directory to the previous onee
+changing directory to the previous one
+listing all filese
