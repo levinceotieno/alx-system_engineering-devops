@@ -1,3 +1,3 @@
 #!/bin/bash
 print the absolute path of the current working directory
-i
+display the contents list of your current directoryi
