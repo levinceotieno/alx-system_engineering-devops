@@ -6,4 +6,5 @@ list files
 list more files
 list the file digits only
 creating a script that creates a directory
-moving filee
+moving file
+deleting filee
