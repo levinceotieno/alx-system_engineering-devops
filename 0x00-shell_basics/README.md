@@ -13,3 +13,4 @@ changing directory to the previous one
 listing all files
 file typ
 symbolsee
+copying html
