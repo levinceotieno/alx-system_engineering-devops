@@ -8,4 +8,5 @@ list the file digits only
 creating a script that creates a directory
 moving file
 deleting file
-deleting directorye
+deleting directory
+changing directory to the previous onee
