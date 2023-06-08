@@ -7,3 +7,4 @@ create empty file
 execute
 multiple permissions
 including everybody
+setting permission
