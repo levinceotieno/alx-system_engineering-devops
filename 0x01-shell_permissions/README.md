@@ -10,3 +10,4 @@ including everybody
 setting permission
 setting the mode of the file
 setting mode the same
+adds execute permission
