@@ -5,3 +5,4 @@ printing all groups
 changing owner
 create empty file
 execute
+multiple permissions
