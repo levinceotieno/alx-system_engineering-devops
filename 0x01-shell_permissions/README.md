@@ -13,3 +13,4 @@ setting mode the same
 adds execute permission
 creating directory
 change group
+symbolic link permission
