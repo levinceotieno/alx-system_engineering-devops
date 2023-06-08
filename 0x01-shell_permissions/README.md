@@ -8,3 +8,4 @@ execute
 multiple permissions
 including everybody
 setting permission
+setting the mode of the file
