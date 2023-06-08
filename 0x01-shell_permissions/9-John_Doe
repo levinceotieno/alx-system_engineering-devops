@@ -1,2 +1,2 @@
 #!/bin/bash
-/bin/chmod 752 hello && /bin/ls -l hello
+chmod +x hello
