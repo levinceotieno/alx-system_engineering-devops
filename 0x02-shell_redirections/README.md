@@ -11,3 +11,9 @@ save current state of directory
 duplicate last line
 no more javascript
 counting the number of directories
+hide the words
+letters only
+A to Z
+removing letrer c
+reverse
+dj cut killer
