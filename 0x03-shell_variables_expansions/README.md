@@ -30,6 +30,10 @@ echo $((128 + $TRUEKNOWLEDGE))
 #!/bin/bash
 echo $(($POWER / $DIVIDE))
 
+#!/bin/bash
+echo "$(( BREATH ** LOVE ))"
+
+
 
 
 
