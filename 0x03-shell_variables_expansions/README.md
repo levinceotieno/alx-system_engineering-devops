@@ -45,6 +45,10 @@ echo "$(printf "%.2f\n" $NUM)"
 #!/bin/bash
 echo "$(printf "%x\n" $DECIMAL)"
 
+#!/bin/bash
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
+
 
 
 
