@@ -36,6 +36,10 @@ echo "$(( BREATH ** LOVE ))"
 #!/bin/bash
 echo "$(( 2#${BINARY} ))"
 
+#!/bin/bash
+echo {a..z}{a..z} | grep -v 'oo' | sort
+
+
 
 
 
