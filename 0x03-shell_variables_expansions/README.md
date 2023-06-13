@@ -42,6 +42,10 @@ echo {a..z}{a..z} | grep -v 'oo' | sort
 #!/bin/bash
 echo "$(printf "%.2f\n" $NUM)"
 
+#!/bin/bash
+echo "$(printf "%x\n" $DECIMAL)"
+
+
 
 
 
