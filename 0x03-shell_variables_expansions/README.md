@@ -8,3 +8,6 @@ echo "Hello, $(whoami)!"
 
 #!/bin/bash
 export PATH="$PATH:/action"
+
+#!/bin/bash
+echo $PATH | tr ':' '\n' | wc -l
