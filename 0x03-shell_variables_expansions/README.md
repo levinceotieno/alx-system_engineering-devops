@@ -39,6 +39,10 @@ echo "$(( 2#${BINARY} ))"
 #!/bin/bash
 echo {a..z}{a..z} | grep -v 'oo' | sort
 
+#!/bin/bash
+echo "$(printf "%.2f\n" $NUM)"
+
+
 
 
 
