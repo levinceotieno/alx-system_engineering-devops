@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n +2 file
+cat -n | grep [13579][[:space:]] | tr -s ' ' | cut -f2
