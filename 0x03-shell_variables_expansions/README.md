@@ -52,6 +52,10 @@ tr 'A-Za-z' 'N-ZA-Mn-za-m'
 #!/bin/bash
 tail -n +2 file
 
+103-water_and_stir
+#!/bin/bash
+echo "$(( $WATER + $STIR ))" | base -d bestchol
+
 
 
 
