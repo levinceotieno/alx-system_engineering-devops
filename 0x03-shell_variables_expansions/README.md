@@ -21,5 +21,9 @@ set | less
 #!/bin/bash
 BEST="School"
 
+#!/bin/bash
+export BEST="School"
+
+
 
 
