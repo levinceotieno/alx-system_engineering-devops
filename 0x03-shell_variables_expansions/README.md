@@ -27,6 +27,10 @@ export BEST="School"
 #!/bin/bash
 echo $((128 + $TRUEKNOWLEDGE))
 
+#!/bin/bash
+echo $(($POWER / $DIVIDE))
+
+
 
 
 
