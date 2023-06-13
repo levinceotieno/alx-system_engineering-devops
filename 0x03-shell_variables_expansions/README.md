@@ -18,4 +18,8 @@ printenv
 #!/bin/bash
 set | less
 
+#!/bin/bash
+BEST="School"
+
+
 
