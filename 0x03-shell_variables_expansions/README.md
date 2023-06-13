@@ -24,6 +24,10 @@ BEST="School"
 #!/bin/bash
 export BEST="School"
 
+#!/bin/bash
+echo $((128 + $TRUEKNOWLEDGE))
+
+
 
 
 
