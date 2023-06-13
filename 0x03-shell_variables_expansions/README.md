@@ -48,6 +48,12 @@ echo "$(printf "%x\n" $DECIMAL)"
 #!/bin/bash
 tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
+102-odd
+#!/bin/bash
+tail -n +2 file
+
+
+
 
 
 
