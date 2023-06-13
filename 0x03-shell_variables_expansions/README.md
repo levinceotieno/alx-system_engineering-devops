@@ -11,3 +11,7 @@ export PATH="$PATH:/action"
 
 #!/bin/bash
 echo $PATH | tr ':' '\n' | wc -l
+
+#!/bin/bash
+printenv
+
