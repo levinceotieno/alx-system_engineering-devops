@@ -33,6 +33,10 @@ echo $(($POWER / $DIVIDE))
 #!/bin/bash
 echo "$(( BREATH ** LOVE ))"
 
+#!/bin/bash
+echo "$(( 2#${BINARY} ))"
+
+
 
 
 
