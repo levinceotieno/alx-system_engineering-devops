@@ -15,3 +15,7 @@ echo $PATH | tr ':' '\n' | wc -l
 #!/bin/bash
 printenv
 
+#!/bin/bash
+set | less
+
+
