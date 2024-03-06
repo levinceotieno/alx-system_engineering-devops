@@ -40,8 +40,8 @@ frontend sasalevv-tech-frontend
 
 backend sasalevv-tech-backend
     balance roundrobin
-    server 449427-web-01 100.25.17.77:80 check
-    server 449427-web-02 100.24.242.170:80 check
+    server 449427-web-01 34.203.33.85:80 check
+    server 449427-web-02 54.234.13.110:80 check
 "
 
 # shellcheck disable=SC2154
